@@ -41,3 +41,8 @@ For testing whether the code can run on the platform, for 4GPU, 1 hours testing,
 ```
 sbatch run_test.slurm
 ```
+
+
+# Model
+
+[40-Epochs](https://drive.google.com/file/d/1ywBE5f2BdNaA2qjXdzooTPA6ekYm9ROU/view?usp=sharing)
